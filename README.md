@@ -1,2 +1,2 @@
-# recipes
-a place to share recipes 
+# Avocado recipes 
+a place to share recipesmade with avocado 
